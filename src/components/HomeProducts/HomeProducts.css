@@ -1,0 +1,18 @@
+span{
+    font-weight: 300;
+    
+}
+.products-head{
+    font-weight: 700;
+    font-size: 35px;
+}
+.homeproduct-section{
+    margin-top: 50px;
+}
+.homeproduct-section p{
+    font-size: 19px;
+    font-weight: 400;
+}
+.product-bg{
+    background-color: #F8F4DA;
+}
